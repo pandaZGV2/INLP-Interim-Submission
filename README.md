@@ -2,7 +2,7 @@
 
 In this repository, we are working on Text Coherence Assessment of [paper](https://arxiv.org/abs/2109.02176).
 
-Install Preprocessed dataset from [here](https://iiitaphyd-my.sharepoint.com/:u:/g/personal/devesh_marwah_research_iiit_ac_in/EUx8whb7hHtIhxA_n1CXMXoBk-dDc9TyehyEIc_x5ncMMw?e=OjT59q) and add in folder processed_data, folder.
+Install Preprocessed dataset from [here](https://iiitaphyd-my.sharepoint.com/:f:/g/personal/aaron_monis_students_iiit_ac_in/EnBVUZweaENOnrA6iSG-E0kBdAsc_26RksbdyNDm14fKmQ?e=33G21d) and add in folder processed_data, folder.
 
 To train the model, you have to use the run.sh file and change the parameters in it as required. Then simply do the following:
 
@@ -24,7 +24,7 @@ For evaluating on datasets, do the following:
 bash eval.sh
 ```
 
-We also have submitted the model [here](https://iiitaphyd-my.sharepoint.com/:f:/g/personal/devesh_marwah_research_iiit_ac_in/EojD7orR1MVCkRrnJyuW6qMBhlWvWWeWaDz6bIop9_5VSA?e=UZmOAc) 
+We also have submitted the model [here](https://iiitaphyd-my.sharepoint.com/:f:/g/personal/shreyansh_agarwal_students_iiit_ac_in/EmYpALMH13JJt76HK81e4kgBF8gH2CqYGZU_DH7GZeQ-PQ?e=wQuPSx) 
 
 The current model is pretrained on vanilla transformer on sentence ordering task for vanilla transformers.
 The logs for running the model have also been attached here.
